@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MPI-M",
+        "kind": "venue"
+      },
+      "geometry": {
+        "coordinates": [
+          9.975212422791344,
+          53.56777634827273
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomatikum Mensa",
+        "kind": "food"
+      },
+      "geometry": {
+        "coordinates": [
+          9.974498783840943,
+          53.56773436919951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "to the mensa",
+        "kind": "path"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            9.975204527838144,
+            53.56778093824519
+          ],
+          [
+            9.974986705617198,
+            53.56774471788077
+          ],
+          [
+            9.974824065025558,
+            53.56772229573488
+          ],
+          [
+            9.974690467396698,
+            53.56773436919951
+          ],
+          [
+            9.974626572878577,
+            53.56783268156914
+          ],
+          [
+            9.9745162096186,
+            53.56780680991508
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

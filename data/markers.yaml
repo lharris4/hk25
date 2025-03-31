@@ -1,0 +1,27 @@
+# available icon colors:
+# red, darkred, lightred, orange, beige, green, darkgreen, lightgreen,
+# blue, darkblue, lightblue, purple, darkpurple, pink, cadetblue, white,
+# gray, lightgray, black
+
+venue:
+  icon: users
+  markerColor: orange
+food:
+  icon: utensils
+  markerColor: lightblue
+sleep:
+  icon: bed
+  markerColor: blue
+busstop:
+  icon: bus
+  markerColor: green
+hvv:
+  icon: train
+  markerColor: green
+home:
+  icon: house
+  markerColor: blue
+default:
+  icon: users
+  markerColor: blue
+

@@ -1,0 +1,8 @@
+public/
+.DS_Store
+.hugo_build.lock
+themes/ananke
+go.mod
+go.sum
+resources/_gen
+themes/hugo-scroll/exampleSite

@@ -1,0 +1,10 @@
+{{ range ( index $.Page.Site.Data (.Get 0) ).features }}
+{{ with .properties }}
+{{ if (eq .kind "food") }}
+### {{ .name }}
+- {{ .description }}
+- [{{ .url }}]({{ .url }})
+- {{ .walk }} walk from hackathon location
+{{ end }}
+{{ end }}
+{{ end }}

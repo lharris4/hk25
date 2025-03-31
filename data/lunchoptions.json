@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MPI-M",
+        "kind": "venue"
+      },
+      "geometry": {
+        "coordinates": [
+          9.975212422791344,
+          53.56777634827273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Mensa Geomatikum",
+        "description": "Student friendly prices",
+        "url": "https://www.stwhh.de/speiseplan/?l=151&t=this_week",
+        "walk": "1 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.974502489961196,
+          53.56775278500095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Blattwerk (vegetarian Mensa)",
+        "description": "Student friendly prices",
+        "url": "https://www.stwhh.de/speiseplan/?l=142&t=this_week",
+        "walk": "15 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98522555749554,
+          53.56562580347031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Rucola & Parma",
+        "description": "Italian; **cash only!**",
+        "url": "https://maps.app.goo.gl/kLpzVz2TFgVhWTpB8",
+        "walk": "4 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.975345383205592,
+          53.5701096495894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Schacht Deli",
+        "description": "Cafe with lunch menu; **closed on Thursdays**",
+        "url": "https://maps.app.goo.gl/Fa1QCGAhsRiTueDg7",
+        "walk": "4 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.972039765580377,
+          53.56848525947689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Quan 19",
+        "description": "Vietnamese; **cash only!**",
+        "url": "https://maps.app.goo.gl/7NBtNKg7uLzhkJbMA",
+        "walk": "6 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98029553935487,
+          53.566818617274635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Iam vegan",
+        "description": "vegan Vietnamese",
+        "url": "https://maps.app.goo.gl/iLT4fPLk9VrxMT3YA",
+        "walk": "8 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.96901293150259,
+          53.56728651983417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Arrabbiata",
+        "description": "Middle Eastern",
+        "url": "https://maps.app.goo.gl/Rsb9TZLX52xvHdJk8",
+        "walk": "8 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98009425789121,
+          53.568775900374106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Asia Lounge",
+        "description": "Asian",
+        "url": "https://maps.app.goo.gl/ZBp29gh3VS5yNqL89",
+        "walk": "8 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.97978676850812,
+          53.56937740134842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Karlsons",
+        "description": "Scandinavian",
+        "url": "https://maps.app.goo.gl/TQvHfHLsemJ2gUG48",
+        "walk": "9 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.980674472730925,
+          53.57127965962431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Maharani",
+        "description": "Indian",
+        "url": "https://maps.app.goo.gl/cWRDkoSxu2BrjUNL8",
+        "walk": "10 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.979051859067596,
+          53.57286404622792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Otto’s Burger",
+        "description": "Burger",
+        "url": "https://maps.app.goo.gl/6Jjs5sW9pS3DxK427",
+        "walk": "11 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.982958121426208,
+          53.56868370192558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "AuthenTikka",
+        "description": "Indian",
+        "url": "https://maps.app.goo.gl/3AdS3FZd5mVEtwkA8",
+        "walk": "11 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.966442228105507,
+          53.56872731265449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Hindukusch",
+        "description": "Afghan",
+        "url": "https://maps.app.goo.gl/oAG4Yin18hTPU3ov6",
+        "walk": "10 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.983129118253828,
+          53.570455641671174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "food",
+        "name": "Panjaab",
+        "description": "Indian",
+        "url": "https://maps.app.goo.gl/Aaw1N7bQnsPsjasp9",
+        "walk": "12 min"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98323318203262,
+          53.568844386653524
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
