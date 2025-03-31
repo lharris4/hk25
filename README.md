@@ -1,4 +1,4 @@
-This repository edits the website. The finished version is rendered at https://digital-earths-global-hackathon.github.io/hamburg-node/
+This repository edits the website. The finished version is rendered at https://digital-earths-global-hackathon.github.io/scientific-scope/
 
 This website is rendered using [Hugo](https://gohugo.io), the theme usded is called [Hugo Scroll](https://themes.gohugo.io/themes/hugo-scroll/).
 
