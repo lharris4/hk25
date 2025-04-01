@@ -7,7 +7,7 @@ header_menu: false
 
 Across the different nodes participants will be setting up science teams. These teams will address specific topics as proposed by the team lead, and attempt to engage others in joint analysis. These are open for participants at all nodes to join. 
 
-Teams will are given a shortname based on the initials of the lead PI as shown in the example below. Each will also have an associated repo on github with the same shortname.  The repo  will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the repo README.md
+Teams are given a shortname based on the initials of the lead PI as shown in the example below. Each will also have an associated repo on github with the same shortname.  The repo  will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the repo README.md
 
 ## Joint EarthCARE Analysis (hk25-st1)
 
