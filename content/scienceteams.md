@@ -9,7 +9,7 @@ Across the different nodes participants will be setting up science teams. These 
 
 Teams are given a shortname based on the initials of the lead PI as shown in the example below. Each will also have an associated repo on github with the same shortname.  The repo  will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the repo README.md
 
-## Joint EarthCARE Analysis (hk25-ec1)
+### Joint EarthCARE Analysis (hk25-ec1)
 
 [EarthCARE](https://earth.esa.int/eogateway/missions/earthcare) is a satellite, developed by ESA, JAXA and NICT and is the sixth satellite choosen as part of ESA's Earth Explorer Programme.   It was launched on 28 May 2024, and be completing its first year in orbit at the time of the Hackathon.  It has unusual capabilities for measuring clouds, aerosols, and radiation.
 
@@ -23,7 +23,7 @@ In this team we will analyze both EarthCARE data and the participating models al
 * extract analagous EarthCARE frames and data from reanalyses.
 * perform composit analysis of various quantities.
 
-## Energetics of Tropical Rainbelts  (hk25-tr1)
+### Energetics of Tropical Rainbelts  (hk25-tr1)
 
 Global km-scale grids permits an explicit representation of convective storms and the processes they entails. Over the tropical ocean, precipitation occurs in a variety of environments. Precipitating regions could be related to strong sea surface temperature gradients and a bottom-heavy circulation (e.g., Eastern Pacific) or a top-heavy circulation, weak SST gradients, and light winds (e.g., Western Pacific). Due to the diversity of pathways in which precipitation occurs, we will analyze how convection is represented across the tropical oceans in the different participating km-scale models using an energetic-moisture framework.
 
@@ -35,7 +35,7 @@ Global km-scale grids permits an explicit representation of convective storms an
 * compute the type of circulation (top- or bottom-heavy) in the tropical rainbelt
 * extract the spectrum of convective coupled equatorial waves 
 
-## Precipitation over ice-sheets (hk25-is1)
+### Precipitation over ice-sheets (hk25-is1)
 
 Mass loss of the Greenland and Antarctic ice sheets is an important contributor for current and future sea level rise. To properly drive the surface mass balance calculations in ice sheet models, a realistic simulation of precipitation and surface temperatures is crucial. Regional modeling studies suggest that higher resolution of the atmospheric models driving ice sheet models improves the simulation of processes occurring at the steep margins of the ice sheets, making km-scale global models a promising tool for future coupled atmosphere-ocean-ice sheet modelling as planned for example in the [TerraDT](https://terradt.eu/) project.
 
@@ -44,11 +44,11 @@ In this team we want to compare the simulated surface meteorology over Greenland
 **Coordination**: Hauke Schmidt (hauke.schmidt@mpimet.mpg.de)
 
 #### Sketch of initial activities:
--	extract model output for the Greenland and Antarctic ice sheets
--	produce precipitation and temperature maps
--	compare annual cycles for regional means and selected locations
+*	extract model output for the Greenland and Antarctic ice sheets
+*	produce precipitation and temperature maps
+*	compare annual cycles for regional means and selected locations
 
-## Triggering  of deep convection (hk25-ct)
+### Triggering  of deep convection (hk25-ct)
 
 Convective precipitation within the tropical rainbelts is primarily driven by convective storms.  To better understand the tropical rainbelts as a whole, we want to understand the details of individual convective systems.  An important aspect of individual convective systems is their triggering.  Limited observations and idealized modeling suggest that SST-driven mesoscale boundary layer wind convergence may play a key role in triggering deep convection over tropical oceans, but details are still poorly understood. Km-scale models, which allow an explicit representation of deep convection, are a promising tool to overcome this limited understanding.
 
@@ -56,9 +56,10 @@ In this team, we will test the hypothesis that MCSs over tropical oceans are tri
 
 **Coordination**: Henning Franke (henning.franke@mpimet.mpg.de)
 
+#### Sketch of initial activities
 * MCS tracking (together with science teams from other nodes)
 * Determine time and location of MCS triggering from MCS tracking results
 * Calculate mesoscale surface wind convergence at MCS triggering locations
-* For coupled simulations: calculate SST gradients and Laplacians. Could still make sense for uncoupled simulations in case SST is prescribed with a high temporal frequency (well below monthly)
+* Calculate SST gradients and Laplacian.
 
 
