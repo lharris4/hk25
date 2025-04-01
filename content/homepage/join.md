@@ -13,15 +13,15 @@ There are several ways to participate in the Hackathon:
 
 Over the course of the hackathon it is conceivable that you do all of the above.
 
-#### Building a Team
+#### Building a Science Team
 
-To buid a team you need to define and document a scientific question, propose specific analyses, and collect and manage team members from the local and remote nodes to help with the proposed analysis.
+To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just make a merge request that adds a description of your team following the example on the [Science Teams page](./scienceteams.md).
 
-In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead and explore the possibility of joining the team, or jointly leading the team.
+In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team and explore the possibility of joining the team, or jointly coordinating the team.  
 
-#### Joining a Team
+#### Joining a Science Team
 
-Joining a team is easy, simply review the list of existing teams and sign up for one that interests you.  Depending on how ambitious the various projects are it might be possible to join more than one team, but we ask that you affiliate with one team, and audit other teams of interest.
+Joining a team is easy, simply review the list of existing teams on the [Science Teams page](./scienceteams.md) and sign up for one that interests you.  Depending on how ambitious the various projects are it might be possible to join more than one team, but we ask that you affiliate with one team, and audit other teams of interest.
 
 That means that you can either sign up to *affiliate* with or just *audit* a team.
 
