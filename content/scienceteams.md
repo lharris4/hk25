@@ -29,7 +29,7 @@ Global km-scale grids permits an explicit representation of convective storms an
 
 **Coordination**: Hans Segura Cajachagua (hans.segura@mpimet.mpg.de)
 
-#### Skecth of initial activities
+#### Sketch of initial activities
 * identify the tropical rainbelt
 * calculate the entropy forcing and the net precipitation flux at the surface
 * compute the type of circulation (top- or bottom-heavy) in the tropical rainbelt
