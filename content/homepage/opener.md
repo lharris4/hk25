@@ -1,6 +1,6 @@
 ---
-title: "Why this page"
+title: "Science, Tutorials and Tech"
 weight: 1
 ---
 
-Welcome! These pages describe the scientific topics, and tutorials that will form the basis for activities during the Hackathon.
+These pages describe the scientic and technical topics, as well as tutorials that will form the basis for activities during the Hackathon. 
