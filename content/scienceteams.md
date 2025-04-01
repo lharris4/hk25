@@ -9,7 +9,7 @@ Across the different nodes participants will be setting up science teams. These 
 
 Teams are given a shortname based on the initials of the lead PI as shown in the example below. Each will also have an associated repo on github with the same shortname.  The repo  will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the repo README.md
 
-## Joint EarthCARE Analysis (hk25-st1)
+## Joint EarthCARE Analysis (hk25-ec1)
 
 [EarthCARE](https://earth.esa.int/eogateway/missions/earthcare) is a satellite, developed by ESA, JAXA and NICT and is the sixth satellite choosen as part of ESA's Earth Explorer Programme.   It was launched on 28 May 2024, and be completing its first year in orbit at the time of the Hackathon.  It has unusual capabilities for measuring clouds, aerosols, and radiation.
 
