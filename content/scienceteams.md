@@ -49,16 +49,10 @@ In this team we want to compare the simulated surface meteorology over Greenland
 -	compare annual cycles for regional means and selected locations
 
 ## Triggering  of deep convection (hk25-ct)
-Convective precipitation within the tropical rainbelts is primarily driven by small-scale convective storms and especially mesoscale convective systems (MCSs).
-In order to better understand the tropical rainbelts as a whole, it is therefore important to better understand the details of individual convective systems.
-An important aspect of individual convective systems is their triggering.
-Limited observations and idealized modeling suggest that SST-driven mesoscale boundary layer wind convergence may play a key role in triggering deep convection over tropical oceans, but details are still poorly understood.
-Km-scale models, which allow an explicit representation of deep convection, are a promising tool to overcome this limited understanding.
 
-In this team, we will investigate how MCSs over tropical oceans are triggered in the different km-scale models participating in this hackathon.
-A special focus will be on the relevance of mesoscale surface wind convergence for convective triggering.
-If possible, we will also look at how mesoscale surface wind convergence depends on mesoscale SST properties.
+Convective precipitation within the tropical rainbelts is primarily driven by convective storms.  To better understand the tropical rainbelts as a whole, we want to understand the details of individual convective systems.  An important aspect of individual convective systems is their triggering.  Limited observations and idealized modeling suggest that SST-driven mesoscale boundary layer wind convergence may play a key role in triggering deep convection over tropical oceans, but details are still poorly understood. Km-scale models, which allow an explicit representation of deep convection, are a promising tool to overcome this limited understanding.
 
+In this team, we will test the hypothesis that MCSs over tropical oceans are triggered by mesoscale wind convergence. If possible, we will also look at how mesoscale surface wind convergence depends on mesoscale SST properties.
 
 **Coordination**: Henning Franke (henning.franke@mpimet.mpg.de)
 
