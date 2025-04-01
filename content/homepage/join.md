@@ -17,7 +17,7 @@ Over the course of the hackathon it is conceivable that you do all of the above.
 
 To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just make a merge request that adds a description of your team following the template provided by the list of [existing teams]({{< ref "scienceteams.md" >}}).
 
-In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team and explore the possibility of joining the team, or jointly coordinating the team.  
+In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team via Mattermost, the instant message service we use during the hackathon, and explore the possibility of joining the team, or jointly coordinating the team. 
 
 #### Join a Science or Tech Team
 
