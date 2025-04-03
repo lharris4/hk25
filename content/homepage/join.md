@@ -2,7 +2,7 @@
 title: "What to do"
 weight: 2
 header_menu: true
-----
+---
 
 There are several ways to participate in the Hackathon:
 
