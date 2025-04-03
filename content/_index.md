@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/code_icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Science Plan"
-header_subheadline: "Science Plan"
+header_headline: "Hacking Plan"
+header_subheadline: "Hacking Plan"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
