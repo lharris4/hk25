@@ -1,5 +1,4 @@
 ---
-titel: Science in Hamburg
 header_menu: false
 ---
 
