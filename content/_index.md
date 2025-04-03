@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/Hackathon-Image-Grey-Positive.png"
+header_image: "images/global_Hackathon_Logo_V2.svg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/code_icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Science Plan"
-header_subheadline: "Science Plan"
+header_headline: "Hacking Plan"
+header_subheadline: "Hacking Plan"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
