@@ -21,7 +21,7 @@ In the case that you have an idea that overlaps with ideas already being used to
 
 #### Join a Science or Tech Team
 
-Joining a team is easy, simply review the list of [existing teams]({{< ref "scienceteams.md" >}}) and sign up for one that interests you. Signing up to a team will happen during the first day of the hackathon. For preparation, you can already explore their starter package in the gitHub repository [*hk25-teams*](https://github.com/digital-earths-global-hackathon/hk25-teams). Just look for their identifier. Depending on how ambitious the various projects are it might be possible to join more than one team, but please clarify your role and degree of commitment with the coordinator of teams you join.
+Joining a team is easy, simply review the list of [existing teams]({{< ref "scienceteams.md" >}}) and sign up for one that interests you. Signing up to a team will happen during the first day of the hackathon. For preparation, you can already explore their directory in the GitHub repository [hk25-teams](https://github.com/digital-earths-global-hackathon/hk25-teams). Just look for their identifier. Depending on how ambitious the various projects are it might be possible to join more than one team, but please clarify your role and degree of commitment with the coordinator of teams you join.
 
 #### Explore tutorials in loose collaboration
 
