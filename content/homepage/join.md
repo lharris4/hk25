@@ -11,21 +11,21 @@ There are several ways to participate in the Hackathon:
 * by exploring in loose collaboration with others.
 * work on your own.
 
-Over the course of the hackathon it is conceivable that you do all of the above.
+Over the course of the hackathon it is conceivable that you do all of the above. The primary platform to collaborate within teams and across nodes is built on [**git**](https://github.com/digital-earths-global-hackathon).
 
 #### Build a Science or Tech Team
 
-To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just make a merge request that adds a description of your team following the template provided by the list of [existing teams]({{< ref "scienceteams.md" >}}).
+To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just [**open a pull request**](https://github.com/digital-earths-global-hackathon/hk25) that adds a description of your team following the template provided by the list of [existing teams]({{< ref "scienceteams.md" >}}). Please give your group an **identifier** following the pattern 'hk25-[zy*n*]'. The **identifier** helps to refer to your group.
 
-In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team via Mattermost, the instant message service we use during the hackathon, and explore the possibility of joining the team, or jointly coordinating the team. 
+In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team and explore the possibility of joining the team, or jointly coordinating the team.
 
 #### Join a Science or Tech Team
 
-Joining a team is easy, simply review the list of [existing teams]({{< ref "scienceteams.md" >}}) and sign up for one that interests you.  Depending on how ambitious the various projects are it might be possible to join more than one team, but please clarify your role and degree of commitment with the coordinator of teams you join.
+Joining a team is easy, simply review the list of [existing teams]({{< ref "scienceteams.md" >}}) and sign up for one that interests you. Signing up to a team will happen during the first day of the hackathon. For preparation, you can already explore their starter package in the gitHub repository [*hk25-teams*](https://github.com/digital-earths-global-hackathon/hk25-teams). Just look for their identifier. Depending on how ambitious the various projects are it might be possible to join more than one team, but please clarify your role and degree of commitment with the coordinator of teams you join.
 
 #### Explore tutorials in loose collaboration
 
-For those who don't want to build a team, or join a team, it is still possible to explore the data with others.  For this purpose a collaborative environment will be set up for those not affiliated with a team to exchange with others about what they are doing.  In addition some tasks will be suggested that help new users get started with their own analysis.
+For those who don't want to build a team, or join a team, it is still possible to explore the data with others.  For this purpose a collaborative environment will be set up for those not affiliated with a team to exchange with others about what they are doing. Simply [open an issue](https://github.com/digital-earths-global-hackathon/hk25-teams/issues), refer to the identifier of the science lead and start a discussion. In addition some tasks will be suggested that help new users get started with their own analysis.
 
 #### Work on your own
 
