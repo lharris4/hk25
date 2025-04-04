@@ -83,9 +83,23 @@ Previous DYAMOND phases provided two 40-day simulation periods for summer and wi
 - Data sharing (upload instructions TBD)
 
 ---
+
+### Dynamics of Shallow Meridional Circulations in the Eastern Pacific and Atlantic basins
+
+The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific and Atlantic basins is dominated by bottom-heavy or shallow meridional circulations, with outflow observed at 2-4 km. In this team, we would like to understand the dynamical drivers of shallow meridional circulations as a function of the seasonal cycle using storm resolving simulations. We are interested in characterising the surface and free troposphere controls on the depth of the shallow circulations and testing the hypothesis that the circulation becomes more pronounced as the ITCZ moves poleward.
+
+**Coordination**: Divya Sri Praturi (divya-sri.praturi@mpimet.mpg.de) and Marius Winkler (marius.winkler@mpimet.mpg.de)
+
+#### Sketch of initial activities
+* construct the meridional overturning circulation in the eastern Atlantic and Pacific ITCZ
+* compute zonal and meridional momentum budgets across pressure levels
+* determine the seasonal cycle of the depth of the outflow
+
+---
+
 ### Mesoscale structure of stratocumulus clouds ([hk25-sc](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sc))
 
-Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated plausible representation of the cloud albedo, its variability with key environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies? 
+Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated realistic covariability of stratocumulus and related environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies? 
 
 It was speculated that the km-scale grid allows to simulate mesoscale circulations which might be sufficient to crudely represent the radiation-turbulence-entrainment-flux feedback regulating the behavior of stratocumuli. We would like to test this hypothesis by inspecting the mesoscale patterns of cloudiness, circulation and precipitation in the models and check whether those patterns comply with the mechanisms proposed to explain the cellular cloud structures evident in observations (see e.g. [Comstock et al. 2005](https://doi.org/10.1175/JAS3567.1), [van Zanten and Stevens 2005](https://doi.org/10.1175/JAS3611.1), [Wood et al. 2011](https://doi.org/10.5194/acp-11-2341-2011)).
 
