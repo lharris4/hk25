@@ -81,3 +81,16 @@ Previous DYAMOND phases provided two 40-day simulation periods for summer and wi
 - Standardize tracking output formats ([unify MCS mask files](https://github.com/WACCEM/MCSMIP-DYAMOND/blob/main/src/unify_mask_files.py))
 - Example MCS mask files ([Globus link](https://app.globus.org/file-manager?destination_id=87909b37-fbcf-4735-a72e-1a406301a053&destination_path=%2Fsample_mcs_mask%2F&two_pane=true))
 - Data sharing (upload instructions TBD)
+
+---
+
+### Dynamics of Shallow Meridional Circulations in the Eastern Pacific and Atlantic basins
+
+The intertropical convergence zone (ITCZ) in the eastern parts of Pacific and Atlantic basins is dominated by bottom-heavy or shallow meridional circulations, with outflow observed at 2-4 km. In this team, we would like to understand the dynamical drivers of shallow meridional circulations as a function of the seasonal cycle using storm resolving simulations. We are interested in characterising the surface and free troposphere controls on the depth of the shallow circulations.
+
+**Coordination**: Divya Sri Praturi (divya-sri.praturi@mpimet.mpg.de) and Marius Winkler (marius.winkler@mpimet.mpg.de)
+
+#### Sketch of initial activities
+* analyse the meridional overturning circulation in eastern parts of Pacific and Atlantic basins
+* compute zonal and meridional momentum budgets across pressure levels
+* determine the seasonal cycle of the depth of the outflow
