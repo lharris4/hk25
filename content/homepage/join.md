@@ -15,7 +15,7 @@ Over the course of the hackathon it is conceivable that you do all of the above.
 
 #### Build a Science or Tech Team
 
-To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just [**open a pull request**](https://github.com/digital-earths-global-hackathon/hk25) that adds a description of your team following the template provided by the list of [existing teams]({{< ref "scienceteams.md" >}}). Please give your group an **identifier** following the pattern 'hk25-[zy*n*]'. The **identifier** helps to refer to your group.
+To buid a team you need to define and document a scientific question, propose specific analyses, and coordinate the activities of people who join your team.  To propose a team just [**open a pull request**](https://github.com/digital-earths-global-hackathon/hk25) that adds a description of your team following the template provided by the list of [existing teams]({{< ref "scienceteams.md" >}}). Please give your group an **identifier** following the pattern 'hk25-[zy*n*]'. The **identifier** helps to refer to your group. Once you choose your identifier, please refer to your [working repository](https://github.com/digital-earths-global-hackathon/hk25-teams) in your description.
 
 In the case that you have an idea that overlaps with ideas already being used to build a team, contact the team-lead of the existing team and explore the possibility of joining the team, or jointly coordinating the team.
 
