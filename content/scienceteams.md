@@ -6,7 +6,7 @@ header_menu: false
 
 Across the different nodes participants will be setting up science teams. These teams will address specific topics as proposed by the team lead, and attempt to engage others in joint analysis. These are open for participants at all nodes to join. 
 
-Teams are given a shortname based on the initials of the lead PI as shown in the example below. Each will also have an associated repo on github with the same shortname.  The repo  will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the repo README.md
+Teams are given an identifier following the pattern ‘hk25-[zyn]’. Each team will also have an associated repo on github with the same identifier. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the README to which the identifiers link.
 
 ---
 ### Joint EarthCARE analysis ([hk25-ec1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ec1))
