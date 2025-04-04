@@ -11,7 +11,7 @@ There are several ways to participate in the Hackathon:
 * by exploring in loose collaboration with others.
 * work on your own.
 
-Over the course of the hackathon it is conceivable that you do all of the above. The primary platform to collaborate within teams and across nodes is built on [**git**](https://github.com/digital-earths-global-hackathon).
+Over the course of the hackathon it is conceivable that you do all of the above. The primary platform to collaborate within teams and across nodes is built on [GitHub](https://github.com/digital-earths-global-hackathon).
 
 #### Build a Science or Tech Team
 
