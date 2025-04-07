@@ -81,3 +81,18 @@ Previous DYAMOND phases provided two 40-day simulation periods for summer and wi
 - Standardize tracking output formats ([unify MCS mask files](https://github.com/WACCEM/MCSMIP-DYAMOND/blob/main/src/unify_mask_files.py))
 - Example MCS mask files ([Globus link](https://app.globus.org/file-manager?destination_id=87909b37-fbcf-4735-a72e-1a406301a053&destination_path=%2Fsample_mcs_mask%2F&two_pane=true))
 - Data sharing (upload instructions TBD)
+
+---
+
+### Global representation of local extremes ([hk25-lx1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-lx1))
+
+Climate extremes can develop on a wide range of spatial scales from continental to local. Global km-scale models allow us a global view on such extremes with local detail important for impacts for the first time. Here, we will use them to quantify the spatial variability lost at coarser resolutions typical for established global models (e.g. from CMIP6 or HighResMIP). This will allow us to identify regions where output resolution matters for the representation of extremes and build understanding of the underlying processes. Comparing km-scale models will enable us to analyses cases where models agree or diverge and trace them back to model differences, for example in the treatment of deep convection.
+
+In this team we will test what the added value of high-resolution output is for the spatial representation of climate extremes. We also aim to understand potential differences between models.
+
+**Coordination**: Lukas Brunner (lukas.brunner@uni-hamburg.de)
+
+### Sketch of initial activities
+* Calculate extreme indices (e.g., [ETCCDI](https://etccdi.pacificclimate.org/list_27_indices.shtml)) at the highest available resolution from all available models
+* Analyze what and where spatial variability is lost at coarser resolutions
+* Compare different extreme indices and models and understand disagreements
