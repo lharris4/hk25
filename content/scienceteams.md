@@ -4,7 +4,7 @@ header_menu: false
 
 # Science Teams
 
-Across the different nodes participants will be setting up science teams. These teams will address specific topics as proposed by the team lead, and attempt to engage others in joint analysis. These are open for participants at all nodes to join. 
+Across the different nodes participants will be setting up science teams. These teams will address specific topics as proposed by the team lead, and attempt to engage others in joint analysis. These are open for participants at all nodes to join.
 
 Teams are given an identifier following the pattern ‘hk25-[zy*n*]’. Each team will also have an associated repo on github with the same identifier. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the README to which the identifiers link.
 
@@ -34,7 +34,7 @@ Global km-scale grids permits an explicit representation of convective storms an
 * identify the tropical rainbelt
 * calculate the entropy forcing and the net precipitation flux at the surface
 * compute the type of circulation (top- or bottom-heavy) in the tropical rainbelt
-* extract the spectrum of convective coupled equatorial waves 
+* extract the spectrum of convective coupled equatorial waves
 
 ---
 ### Precipitation over ice-sheets ([hk25-is1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-is1))
@@ -51,7 +51,7 @@ In this team we want to compare the simulated surface meteorology over Greenland
 *	compare annual cycles for regional means and selected locations
 
 ---
-### Triggering of deep convection ([hk25-ct](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ct))
+### Triggering of deep convection ([hk25-ct1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ct1))
 
 Convective precipitation within the tropical rainbelts is primarily driven by convective storms.  To better understand the tropical rainbelts as a whole, we want to understand the details of individual convective systems.  An important aspect of individual convective systems is their triggering.  Limited observations and idealized modeling suggest that SST-driven mesoscale boundary layer wind convergence may play a key role in triggering deep convection over tropical oceans, but details are still poorly understood. Km-scale models, which allow an explicit representation of deep convection, are a promising tool to overcome this limited understanding.
 
@@ -84,7 +84,7 @@ Previous DYAMOND phases provided two 40-day simulation periods for summer and wi
 
 ---
 
-### Shallow meridional circulations in the ITCZ (hk25-sh)
+### Shallow meridional circulations in the ITCZ ([hk25-sh1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sh1))
 
 The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific and Atlantic basins is dominated by bottom-heavy or shallow meridional circulations, with outflow observed at 2-4 km. In this team, we would like to understand the dynamical drivers of shallow meridional circulations as a function of the seasonal cycle using storm resolving simulations. We are interested in characterising the surface and free troposphere controls on the depth of the shallow circulations and testing the hypothesis that the circulation becomes more pronounced as the ITCZ moves poleward.
 
@@ -97,9 +97,9 @@ The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific an
 
 ---
 
-### Mesoscale structure of stratocumulus clouds (hk25-sc)
+### Mesoscale structure of stratocumulus clouds ([hk25-sc1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sc1))
 
-Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated realistic covariability of stratocumulus and related environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies? 
+Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated realistic covariability of stratocumulus and related environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies?
 
 It was speculated that the km-scale grid allows to simulate mesoscale circulations which might be sufficient to crudely represent the radiation-turbulence-entrainment-flux feedback regulating the behavior of stratocumuli. We would like to test this hypothesis by inspecting the mesoscale patterns of cloudiness, circulation and precipitation in the models and check whether those patterns comply with the mechanisms proposed to explain the cellular cloud structures evident in observations (see e.g. [Comstock et al. 2005](https://doi.org/10.1175/JAS3567.1), [van Zanten and Stevens 2005](https://doi.org/10.1175/JAS3611.1), [Wood et al. 2011](https://doi.org/10.5194/acp-11-2341-2011)).
 
