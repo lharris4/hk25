@@ -6,22 +6,7 @@ header_menu: false
 
 Across the different nodes participants will be setting up science teams. These teams will address specific topics as proposed by the team lead, and attempt to engage others in joint analysis. These are open for participants at all nodes to join.
 
-Teams are given an identifier following the pattern ‘hk25-[zy*n*]’. Each team will also have an associated repo on github with the same identifier. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on the README to which the identifiers link.
-
----
-### Joint EarthCARE analysis ([hk25-ec1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ec1))
-
-[EarthCARE](https://earth.esa.int/eogateway/missions/earthcare) is a satellite, developed by ESA, JAXA and NICT and is the sixth satellite choosen as part of ESA's Earth Explorer Programme.   It was launched on 28 May 2024, and be completing its first year in orbit at the time of the Hackathon.  It has unusual capabilities for measuring clouds, aerosols, and radiation.
-
-In this team we will analyze both EarthCARE data and the participating models along virtual EarthCARE swaths, with an initial focus on tropical deep convection as analyzed by EarthCARE, aircraft, ships and ground stations during the [ORCESTRA campaign](http://orcestra-campaign.org/), i.e., over the Tropical Atlantic in the time-period between 10 August and 30 September.
-
-**Coordination**: Bjorn Stevens (bjorn.stevens@mpimet.mpg.de)
-
-#### Sketch of initial activities:
-* extract model output along selected orbit frames
-* post-process output using model simulators
-* extract analagous EarthCARE frames and data from reanalyses.
-* perform composit analysis of various quantities.
+Science teams are given a unique identifier (uid) following the convention ‘hk25-uid’. Each team will also have a lead and an associated repo on github with the same uid. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on by the README for each team.
 
 ---
 ### Energetics of tropical rainbelts ([hk25-tr1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-tr1))
@@ -97,7 +82,7 @@ The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific an
 
 ---
 
-### Mesoscale structure of stratocumulus clouds ([hk25-sc1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sc1))
+### Mesoscale structure of stratocumulus ([hk25-sc1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sc1))
 
 Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated realistic covariability of stratocumulus and related environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies?
 
