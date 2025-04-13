@@ -56,7 +56,7 @@ In this cross-cutting activity we will evaluate the capabilities and limitations
 * test inference of model trained on an earlier version of ICON and ERA5
 
 ---
-### Feature tracking with the grassroots ([hk25-tracking](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-tracking))
+### Feature tracking with the grassroots ([hk25-Tracking](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-Tracking))
 
 Global models simulating the atmosphere at km-scale with high resolution spatio-temporal output facilitate tracking of a variety of simulated features, similar to what is done using satellite data.  For example tracking can be used to identify and follow tropical storms, mesoscale convective systems, atmospheric rivers, and so on.  For the hackathon a number of tracking tools are being adapted to work on the HEALPix output of the models.  Trackers will be introduced to related science teams by members of this cross-cutting activity.
 
