@@ -9,7 +9,7 @@ Across the different nodes participants will be setting up science teams. These 
 Science teams are given a unique identifier (uid) following the convention ‘hk25-uid’. Each team will also have a lead and an associated repo on github with the same uid. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on by the README for each team.
 
 ---
-### Energetics of tropical rainbelts ([hk25-tr1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-tr1))
+### Energetics of tropical rainbelts ([hk25-RainBelt](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-RainBelt))
 
 Global km-scale grids permits an explicit representation of convective storms and the processes they entails. Over the tropical ocean, precipitation occurs in a variety of environments. Precipitating regions could be related to strong sea surface temperature gradients and a bottom-heavy circulation (e.g., Eastern Pacific) or a top-heavy circulation, weak SST gradients, and light winds (e.g., Western Pacific). Due to the diversity of pathways in which precipitation occurs, we will analyze how convection is represented across the tropical oceans in the different participating km-scale models using an energetic-moisture framework.
 
@@ -22,7 +22,7 @@ Global km-scale grids permits an explicit representation of convective storms an
 * extract the spectrum of convective coupled equatorial waves
 
 ---
-### Precipitation over ice-sheets ([hk25-is1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-is1))
+### Precipitation over ice-sheets ([hk25-IceSheet](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-IceSheet))
 
 Mass loss of the Greenland and Antarctic ice sheets is an important contributor for current and future sea level rise. To properly drive the surface mass balance calculations in ice sheet models, a realistic simulation of precipitation and surface temperatures is crucial. Regional modeling studies suggest that higher resolution of the atmospheric models driving ice sheet models improves the simulation of processes occurring at the steep margins of the ice sheets, making km-scale global models a promising tool for future coupled atmosphere-ocean-ice sheet modelling as planned for example in the [TerraDT](https://terradt.eu/) project.
 
@@ -36,7 +36,7 @@ In this team we want to compare the simulated surface meteorology over Greenland
 *	compare annual cycles for regional means and selected locations
 
 ---
-### Triggering of deep convection ([hk25-ct1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ct1))
+### Triggering of deep convection ([hk25-ConvTrig](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ConvTrig))
 
 Convective precipitation within the tropical rainbelts is primarily driven by convective storms.  To better understand the tropical rainbelts as a whole, we want to understand the details of individual convective systems.  An important aspect of individual convective systems is their triggering.  Limited observations and idealized modeling suggest that SST-driven mesoscale boundary layer wind convergence may play a key role in triggering deep convection over tropical oceans, but details are still poorly understood. Km-scale models, which allow an explicit representation of deep convection, are a promising tool to overcome this limited understanding.
 
@@ -52,7 +52,7 @@ In this team, we will test the hypothesis that MCSs over tropical oceans are tri
 
 ---
 
-### MCS tracking ([hk25-mcs](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-mcs))
+### MCS tracking ([hk25-MCS](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-MCS))
 
 Convective storms, especially those that develop into mesoscale convective systems (MCSs), play a crucial role in producing rainfall and hazardous weather across the globe. While recent studies have shown that DYAMOND models can capture certain aspects of tropical MCSs, such as their frequency and diurnal cycle, significant challenges remain. In particular, accurately representing the distribution of precipitation and its relationship with the surrounding environment continues to be a major hurdle ([Su et al. 2022](https://doi.org/10.2151/jmsj.2022-033); [Feng et al. 2023](https://doi.org/10.1029/2022GL102603); [Song et al. 2024](https://doi.org/10.1029/2024GL109945); [Feng et al. 2024](https://doi.org/10.22541/essoar.172405876.67413040/v1)).
 
@@ -69,7 +69,7 @@ Previous DYAMOND phases provided two 40-day simulation periods for summer and wi
 
 ---
 
-### Shallow meridional circulations in the ITCZ ([hk25-sh1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sh1))
+### Shallow circulations in the ITCZ ([hk25-ShallowCirc](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-ShallowCirc))
 
 The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific and Atlantic basins is dominated by bottom-heavy or shallow meridional circulations, with outflow observed at 2-4 km. In this team, we would like to understand the dynamical drivers of shallow meridional circulations as a function of the seasonal cycle using storm resolving simulations. We are interested in characterising the surface and free troposphere controls on the depth of the shallow circulations and testing the hypothesis that the circulation becomes more pronounced as the ITCZ moves poleward.
 
@@ -82,7 +82,7 @@ The intertropical convergence zone (ITCZ) in the eastern parts of the Pacific an
 
 ---
 
-### Mesoscale structure of stratocumulus ([hk25-sc1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-sc1))
+### Mesoscale structure of stratocumulus ([hk25-StCu](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-StCu))
 
 Low-level clouds over subtropical oceans are important for the energy balance of the planet and climate sensitivity. Their properties and evolution crucially depend on small scale processes. A recent examination of their climatology ([Nowak et al. 2025](https://doi.org/10.1029/2024MS004340)) in two [NextGEMS](https://nextgems-h2020.eu/) global storm-resolving models indicated realistic covariability of stratocumulus and related environmental factors, and the vertical structure of the boundary layer. How is that possible without elaborated model tuning and on the grid which is too large to resolve large turbulent eddies?
 
@@ -98,7 +98,7 @@ It was speculated that the km-scale grid allows to simulate mesoscale circulatio
 
 ---
 
-### Global representation of local extremes ([hk25-lx1](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-lx1))
+### Global representation of local extremes ([hk25-LocExt](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-LocExt))
 
 Climate extremes can develop on a wide range of spatial scales from continental to local. Global km-scale models allow us a global view on such extremes with local detail important for impacts for the first time. Here, we will use them to quantify the spatial variability lost at coarser resolutions typical for established global models (e.g. from CMIP6 or HighResMIP). This will allow us to identify regions where output resolution matters for the representation of extremes and build understanding of the underlying processes. Comparing km-scale models will enable us to analyses cases where models agree or diverge and trace them back to model differences, for example in the treatment of deep convection.
 
