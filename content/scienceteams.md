@@ -113,9 +113,9 @@ In this team we will test what the added value of high-resolution output is for 
 
 ---
 
-### Tropical Cyclones (hk25-TropCyc)
+### Tropical Cyclones ([hk25-TropCyc](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-TropCyc))
 
-Tropical Cyclones (TCs) are intense organised convective systems that are responsible for nearly half of the worldwide disaster-related costs (CRED & UNDRR, 2020). Historically, they have been difficult to represent in coarse-resolution climate models because of their small size and their sensitivity to convective parametrisations. It has been shown that increasing resolution to 25km allows models to represent the number and distribution of cyclones correctly (Roberts et al. 2020), but the intensity remains largely underestimated, and the structure is not well represented (Bourdin et al. 2024). Baker et al. (2024) showed that increasing resolution up to 5km improves the intensity, the lifecycle and the structure of TCs in NextGEMS simulations.
+Tropical Cyclones (TCs) are intense organised convective systems that are responsible for nearly half of the worldwide disaster-related costs (CRED & UNDRR, 2020). Historically, they have been difficult to represent in coarse-resolution climate models because of their small size and their sensitivity to convective parametrisations. It has been shown that increasing resolution to 25km allows models to represent the number and distribution of cyclones correctly (Roberts et al. [2020](https://link.springer.com/article/10.1007/s00382-024-07138-w)), but the intensity remains largely underestimated, and the structure is not well represented (Bourdin et al. [2024](https://link.springer.com/article/10.1007/s00382-024-07138-w)). Baker et al. ([2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109841)) showed that increasing resolution up to 5km improves the intensity, the lifecycle and the structure of TCs in NextGEMS simulations.
 
 In this team, we will investigate how TCs are represented in the new sets of simulations in terms of statistics, structure, lifecycle and link with the environment.
 
