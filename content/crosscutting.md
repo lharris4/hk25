@@ -11,11 +11,11 @@ Activities are given a unique identifier (uid) following the convention ‘hk25-
 ---
 ### Joint EarthCARE analysis with ESA ([hk25-EarthCARE](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-EarthCARE))
 
-[EarthCARE](https://earth.esa.int/eogateway/missions/earthcare) is a satellite, developed by ESA and JAXA and is the sixth satellite choosen as part of ESA's Earth Explorer Programme.   It was launched on 28 May 2024, and be completing its first year in orbit at the time of the Hackathon.  It has unusual capabilities for measuring clouds, aerosols, and radiation.
+[EarthCARE](https://earth.esa.int/eogateway/missions/earthcare) is a satellite, developed by ESA and JAXA and is the sixth satellite choosen as part of ESA's Earth Explorer Programme.   It was launched on 28 May 2024, and will be completing its first year in orbit at the time of the Hackathon.  It has unusual capabilities for measuring clouds, aerosols, and radiation.
 
- In this team we will analyze both EarthCARE data and the participating models along virtual EarthCARE swaths, with an initial focus on tropical deep convection as analyzed by EarthCARE, aircraft, ships and ground stations during the [ORCESTRA campaign](http://orcestra-campaign.org/), i.e., over the Tropical Atlantic in the time-period between 10 August and 30 September.
+In this cross-cutting activity we will analyze both EarthCARE data and the participating models along virtual EarthCARE swaths, with an initial focus on tropical deep convection as analyzed by EarthCARE, aircraft, ships and ground stations during the [ORCESTRA campaign](http://orcestra-campaign.org/), i.e., over the Tropical Atlantic in the time-period between 10 August and 30 September.
 
- **Coordination**: Saskia Brose (saskia.brose@esa.int)
+**Coordination**: Saskia Brose (saskia.brose@esa.int)
 
 #### Sketch of initial activities:
 * extract model output along selected orbit frames
@@ -24,9 +24,9 @@ Activities are given a unique identifier (uid) following the convention ‘hk25-
 * perform composit analysis of various quantities.
 
 ---
-### Destination Earth with ClimateDT Consortium ([hk25-DestinE](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-DestinE))
+### DestinE with the ClimateDT Consortium ([hk25-DestinE](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-DestinE))
 
-[DestineE](https://destination-earth.eu) is an initiative of the European Commission which includes the operationalization of multi-decadal climate simulations using km-scale global models. Several multi-decadal scenario simulations have been performed with the [Climate Change Adaptation Digital Twin](https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/#What-is-the-Climate-DT) and are being integrated into the DestinE platform.
+Destination Earth, aka [DestineE](https://destination-earth.eu), is an initiative of the European Commission which includes the operationalization of multi-decadal climate simulations using km-scale global models. Several multi-decadal scenario simulations have been performed with the [Climate Change Adaptation Digital Twin](https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/#What-is-the-Climate-DT) and are being integrated into the DestinE platform.
 
 In this cross-cutting activity we will adopt and expand the analyses of different science teams to the DestinE data. One of the goals of this activity is to experiment with the capabilities of the [DestinE data platform](https://platform.destine.eu). Another is to expand the scope of the scientific analysis being performed by the science teams using the multi-decadal km-scale simulations of ClimateDT.
 
