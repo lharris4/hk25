@@ -142,3 +142,37 @@ Sketch of initial activities:
   + Assess TCs statistics (e.g., intensity and intensification rates) using TempstExtremes
   + Assess tropical cyclones structure from snapshots
   + Assess environmental controls on TCs, e.g., moisture, potential intensity
+
+---
+
+### EarthCARE-Curtains (hk25-Curtains)
+
+The goal of this working group is to evaluate our models’ capability of capturing the correct vertical structure of clouds around the globe.
+
+To this end, we propose to extract so-called “virtual curtains” from the simulations alongside the EarthCARE satellite tracks (see Fig. 1). “Curtains" refers to the shape of the dataset, a vertical veil unfolding under the satellite, while “virtual" refers to projection of these 2025 orbit tracks onto the simulated year 2020. Practically, we anticipate to use the upcoming EarthCARE's L2-products for the month of April 2025. We will therefore compare these with all virtual curtains extracted from April month, using a bulk statistical approach. Further, we intend to use the satellite product emulator PAMTRA to convert the model’s output into comparable products such as radar reflectivity. An example of such curtain extraction and conversion is presented in Fig. 2.
+
+**Coordination**: Romain Fiévet (romain.fievet@mpimet.mpg.de)
+
+#### Sketch of initial activities
+* Recover the EC product and orbital tracks
+* Extract the virtual curtain from the models
+* Convert these using PAMTRA
+* Compare and evaluate the models biases
+
+---
+
+### Intercomparison : How realistic are GSRM clouds? (hk25-CloudClimato)
+
+
+This science team will compare GSRM cloud characteristics with diverse climatological observations (in situ, satellite, etc.) in order to assess the realism of different cloud types in the control climate of various models and identify potential mean state biases. The goal is to publish these analyses in an overview paper that can be used as a a reference for process papers dedicated to more specific analyses of shallow clouds, deep clouds, storm tracks, polar clouds, etc. The hackathon will be used as a kickstarter for this project and hopefully the collaboration will continue afterwards to try and submit the paper rapidly.
+
+Coordination : Emilie Fons (emilie.fons@lmd.ipsl.fr)
+
+Sketch of initial activities:
+- standardize cloud characteristics that are available in all GSR models. Which models have outputs from a satellite simulator ?
+- gather observational data for comparison (e.g., reanalysis, CERES, Earthcare, etc.)
+- low priority : gather GCM data for comparison (e.g., CMIP6)
+- plots : maps, latitudinal profiles, altitude profiles, cloud regime profiles, interranual/seasonal/diurnal variability
+- variables of interest : TOA radiative fluxes, surface temperature, humidity, cloud fraction, ice and liquid water content, precipitation, circulation metrics, inversion strength, etc. Maybe a section focused on deep convection metrics.
+- for NextGEMS models (and other models if applicable): Plot/describe the evolution of cloud characteristics throughout the different development cycles (2020 to 2025). What did we learn along the way about how GSRMs simulate different cloud regimes ? Are there bugs and limitations to keep in mind ?
+- brainstorm on other diagnoses to add to the paper (depending on interests of team members, but the scope should remain quite general and descriptive)
