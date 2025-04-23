@@ -8,6 +8,8 @@ Across the different nodes participants will be setting up science teams. These 
 
 Science teams are given a unique identifier (uid) following the convention ‘hk25-uid’. Each team will also have a lead and an associated repo on github with the same uid. The repo will serve as the primary basis for communication among team members.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on by the README for each team.
 
+{{< toc >}}
+
 ---
 ### Energetics of tropical rainbelts ([hk25-RainBelt](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-RainBelt))
 

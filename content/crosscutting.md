@@ -8,6 +8,8 @@ A number of ambitious cross cutting activities are also planned.  These usually 
 
 Activities are given a unique identifier (uid) following the convention ‘hk25-uid’. Each activity will also have a lead and an associated repo on github with the same uid. The repo will serve as the primary basis for communication among participants in an activity.  Mattermost channels, markdown pads, and video-conference links may also serve as supplemental forms of communications, as indicated on by the README for each activity.
 
+{{< toc >}}
+
 ---
 ### Joint EarthCARE analysis with ESA ([hk25-EarthCARE](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-EarthCARE))
 
