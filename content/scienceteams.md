@@ -145,7 +145,7 @@ Sketch of initial activities:
 
 ---
 
-### EarthCARE-Curtains (hk25-Curtains)
+### EarthCARE-Curtains ([hk25-Curtains]((https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-Curtains))
 
 The goal of this working group is to evaluate our models’ capability of capturing the correct vertical structure of clouds around the globe.
 
@@ -161,7 +161,7 @@ To this end, we propose to extract so-called “virtual curtains” from the sim
 
 ---
 
-### Intercomparison : How realistic are GSRM clouds? (hk25-CloudClimato)
+### Intercomparison : How realistic are GSRM clouds? ([hk25-CloudClimato](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-CloudClimato))
 
 
 This science team will compare GSRM cloud characteristics with diverse climatological observations (in situ, satellite, etc.) in order to assess the realism of different cloud types in the control climate of various models and identify potential mean state biases. The goal is to publish these analyses in an overview paper that can be used as a a reference for process papers dedicated to more specific analyses of shallow clouds, deep clouds, storm tracks, polar clouds, etc. The hackathon will be used as a kickstarter for this project and hopefully the collaboration will continue afterwards to try and submit the paper rapidly.
