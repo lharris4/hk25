@@ -53,3 +53,7 @@ title = "Global Hackathon | HK25"
 
     [params.meta]
         keywords = "nextGEMS, WCRP, ESMO, hackathon, Digital Earths Global Hackathon, km-scale modelling, climate hackathon"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 3
