@@ -17,6 +17,8 @@ Donahue, A. S., P. M. Caldwell, L. Bertagna, H. Beydoun, P. A. Bogenschutz, A. M
 
 ## Simulation Details
 
+Simulation DOI: 
+
 - Resolution: 
     - Horizontal: 3.25km global
     - Vertical: 128 levels 
