@@ -56,4 +56,5 @@ title = "Global Hackathon | HK25"
 
 [markup]
   [markup.tableOfContents]
+    endLevel = 3
     startLevel = 3
