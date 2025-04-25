@@ -53,7 +53,7 @@ In this team, we will test the hypothesis that MCSs over tropical oceans are tri
 * Calculate SST gradients and Laplacian.
 
 ---
-### EarthCARE-Curtains ([hk25-Curtains](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-Curtains))
+### EarthCARE-Curtains ([hk25-Curtains)](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-Curtains))
 
 The goal of this working group is to evaluate the models’ capability of capturing the correct vertical structure of clouds around the globe.
 
@@ -125,7 +125,7 @@ In this team we will test what the added value of high-resolution output is for 
 
 **Coordination**: Lukas Brunner (lukas.brunner@uni-hamburg.de)
 
-### Sketch of initial activities
+#### Sketch of initial activities
 * Calculate extreme indices (e.g., [ETCCDI](https://etccdi.pacificclimate.org/list_27_indices.shtml)) at the highest available resolution from all available models
 * Analyze what and where spatial variability is lost at coarser resolutions
 * Compare different extreme indices and models and understand disagreements
@@ -140,7 +140,7 @@ In this team, we will investigate how TCs are represented in the new sets of sim
 
 **Coordination**: Stella Bourdin (stella.bourdin@physics.ox.ac.uk), Masaki Satoh (satoh@aori.u-tokyo.ac.jp)
 
-Sketch of initial activities:
+#### Sketch of initial activities:
   + Assess TCs statistics (e.g., intensity and intensification rates) using TempstExtremes
   + Assess tropical cyclones structure from snapshots
   + Assess environmental controls on TCs, e.g., moisture, potential intensity
@@ -170,7 +170,7 @@ This science team will compare GSRM cloud characteristics with diverse climatolo
 
 Coordination : Emilie Fons (emilie.fons@lmd.ipsl.fr)
 
-Sketch of initial activities:
+#### Sketch of initial activities:
 - standardize cloud characteristics that are available in all GSR models. Which models have outputs from a satellite simulator ?
 - gather observational data for comparison (e.g., reanalysis, CERES, Earthcare, etc.)
 - low priority : gather GCM data for comparison (e.g., CMIP6)
@@ -189,7 +189,7 @@ In this team we want to analyze relationships between SST, air-sea fluxes, tropi
 
 Coordination: Louise Nuijens (Louise.Nuijens@tudelft.nl)
 
-First activities may include:
+#### Sketch of initial activities:
 * Analyze air-sea heat fluxes and wind stress as a function of SST, stability and wind speed
 * Derive divergence and curl of wind speed and stress across SST gradients
 * Derive coupling coefficients to evaluate the atmospheric feedback on wind (stress)

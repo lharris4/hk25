@@ -1,4 +1,4 @@
-baseURL = "https://nextgems.pages.gwdg.de/global-hackathon-hk25/"
+baseURL = "https://github.com/digital-earths-global-hackathon/hk25.git"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -56,4 +56,5 @@ title = "Global Hackathon | HK25"
 
 [markup]
   [markup.tableOfContents]
+    endLevel = 3
     startLevel = 3
