@@ -21,7 +21,7 @@ This page gives the basic overview of the model simulations and available data. 
 | Global atm 2.8 km / ocean 5 km   | [Hamburg](https://digital-earths-global-hackathon.github.io/hamburg-node/)               | *tba*                       | [Thomas Rackow](mailto:thomas.rackow@ecmwf.int)       |
 | <ins> **[NCAR-MPAS](https://github.com/digital-earths-global-hackathon/hk25/blob/main/content/models/mpas.md)** </ins>      |  |  |  |
 | Global                           | [US-Central](https://www.cisl.ucar.edu/events/digital-earths-global-hackathon)           | *tba*                       | [Brain Medeiros](mailto:brianpm@ucar.edu )            |
-| <ins>   **[NCAR-WF](https://github.com/digital-earths-global-hackathon/hk25/blob/main/content/models/wf.md)**  </ins>       |  |  |  |
+| <ins>   **[NCAR-WRF](https://github.com/digital-earths-global-hackathon/hk25/blob/main/content/models/wrf.md)**  </ins>       |  |  |  |
 | Regional: N./S. America, 4 km    | [US-Central](https://www.cisl.ucar.edu/events/digital-earths-global-hackathon)           | *tba*                       | [Julia Kukulies](mailto:kukulies@ucar.edu)            |
 | <ins> **[GFDL](https://github.com/digital-earths-global-hackathon/hk25/blob/main/content/models/gfdl.md)**  </ins>          |  |  |  |
 | Global                           | [US-East](https://cimes.princeton.edu/princeton-university-geophysical-fluid-dynamics-laboratory-global-km-scale-hackathon-0) | *tba* | [Tim Merlis](mailto:tmerlis@princeton.edu)      |
