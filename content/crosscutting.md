@@ -71,3 +71,16 @@ Global models simulating the atmosphere at km-scale with high resolution spatio-
 - Gain familiarity with one or more trackers
 - Develop and extend their capabilities
 - Apply to output to answer questions posed by science teams.
+
+---
+
+### Data interoperability ([hk25-EOPF_DGGS](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-EOPF_DGGS))
+
+For software-engineeering oriented peeps interested in ESA's Earth Observation Processor Framework (EOPF).  This activity will explore how to help scientists and engineers to seamlessly link HEALPix based workflows to with diverse geospatial datasets (in-situ, Satelite, model output). Our efforts focus on simplifying manipulation and analysis workflows for Discrete Global Grid Systems (DGGS), particularly HEALPix-based data, with a strong emphasis on interoperability and scalability.
+
+**Coordination**: Tina Odaka (tina.odaka@ifremer.fr)
+
+#### Sketch of initial activities
+- Zarr v3 on HEALPix
+- Multiresolution data access
+- Interoperability and community standardization
