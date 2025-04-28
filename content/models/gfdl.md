@@ -25,12 +25,16 @@ Key References:
 Two versions of X-SHiELD are available:
 
 1) X-SHiELD 2021 (PIRE), free-running from 2019-10-20 to 2022-01-13, MLO nudged to EC analyzed SSTs, in four climates:
-1a) Present-day climate
-1b) +4K SSTs
-1c) 4x pre-industrial CO2
-1d) Global warming (+4K SSTs and 4x CO2)
 
-2) X-SHiELD 2024, free-running from 2019-10-20 to 2020-12-31, MLO nudged to EC analyzed SSTs
+    a) Present-day climate
+
+    b) +4K SSTs
+
+    c) 4x pre-industrial CO2
+
+    d) Global warming (+4K SSTs and 4x CO2)
+
+3) X-SHiELD 2024, free-running from 2019-10-20 to 2020-12-31, MLO nudged to EC analyzed SSTs
 
 Simulation DOI: 
 
