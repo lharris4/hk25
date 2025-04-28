@@ -84,3 +84,19 @@ For software-engineeering oriented peeps interested in ESA's Earth Observation P
 - Zarr v3 on HEALPix
 - Multiresolution data access
 - Interoperability and community standardization
+
+---
+
+### 21st Century Weather ([hk25-AusNode](https://github.com/digital-earths-global-hackathon/hk25-teams/tree/main/hk25-AusNode))
+
+As part of the [ARC Centre of Excellence for the Weather of the 21st Century](https://21centuryweather.org.au) the Australian node is supporting ca 10 cross-cutting research projects. These structured projects explore how km-scale models can advance understanding of weather and climate across scales.  The goal is to analyze global simulations through a local lens, using existing tools, methodologies, and datasets. 
+
+**Note:** We wil look at some topics addressed by specific science tehams, and others that are orthogonal, through a more holistic lense.  Hence, this is structured as a cross-cutting activity to encourage collaboration with science teams working on related topics.
+
+**Coordination:** Melissa Hart (melissa.hart@utas.edu.au)
+
+#### Sketch of initial activities:
+
+* Work on healpix examples to read a plot data.
+* Identify data and variables to analyze according to the topic of interest. 
+* Collaborate and discuss research plan
